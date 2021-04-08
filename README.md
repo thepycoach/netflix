@@ -3,6 +3,7 @@ This repository contains my analysis on the English vocabulary in Netflix Movies
 
 You can find the best episodes/movies to learn a foreign language in the articles below:
 
+- The Simpsons is the Best TV show to Increase Your English Vocabulary: https://towardsdatascience.com/the-simpsons-is-the-best-tv-show-to-increase-your-english-vocabulary-f433fe060a74
 - Best Netflix Movies & Series: https://towardsdatascience.com/the-best-netflix-movies-series-to-learn-english-according-to-data-science-dec7b047b164
 - Best Game of Thrones Episodes: https://medium.com/learn-languages-with-tv/learn-english-with-game-of-thrones-the-best-episodes-94eb4fba11d2
 - Best Breaing Bad Episodes: https://medium.com/learn-languages-with-tv/learn-english-with-breaking-bad-the-best-episodes-according-to-data-science-dd8eca1a7d2b
