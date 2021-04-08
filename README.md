@@ -3,5 +3,5 @@ This repository contains my analysis on the English vocabulary in Netflix Movies
 
 You can find the best episodes/movies to learn a foreign language in the articles below:
 
-Best Netflix Movies & Series: https://towardsdatascience.com/the-best-netflix-movies-series-to-learn-english-according-to-data-science-dec7b047b164
-Best Game of Thrones: https://medium.com/learn-languages-with-tv/learn-english-with-game-of-thrones-the-best-episodes-94eb4fba11d2
+- Best Netflix Movies & Series: https://towardsdatascience.com/the-best-netflix-movies-series-to-learn-english-according-to-data-science-dec7b047b164
+- Best Game of Thrones: https://medium.com/learn-languages-with-tv/learn-english-with-game-of-thrones-the-best-episodes-94eb4fba11d2
